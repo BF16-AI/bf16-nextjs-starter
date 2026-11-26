@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "ai": "^4.0.0",
+    "ai": "^5.0.0",
     "bf16-ai-sdk-provider": "^0.1.0",
     "next": "^15.1.0",
     "react": "^19.0.0",
